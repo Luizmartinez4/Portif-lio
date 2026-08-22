@@ -2,7 +2,7 @@
 const el = document.querySelector(".texto__animado");
 
 // Texto que deve ser exibido
-const text = "Olá, \nMeu nome é Luiz Martinez,\nDesenvolvedor Front-End";
+const text = "Olá, \nMeu nome é Luiz Martinez,\nDesenvolvedor Full-Stack";
 
 // Tempo de digitação
 const interval = 100;
